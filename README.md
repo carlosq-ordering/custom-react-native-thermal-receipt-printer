@@ -6,7 +6,7 @@ A React Native Library to support USB/BLE/Net printer
 ## Installation
 
 ```
-yarn add react-native-thermal-receipt-printer
+yarn add custom-react-native-thermal-receipt-printer
 ```
 
 ## Troubleshoot
