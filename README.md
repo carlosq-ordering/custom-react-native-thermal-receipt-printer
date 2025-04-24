@@ -1,4 +1,4 @@
-# choiceqr-react-native-thermal-printer
+# react-native-thermal-receipt-printer
 
 Fork of `react-native-printer` and add implement for auto connect printer with usb
 A React Native Library to support USB/BLE/Net printer
@@ -6,7 +6,7 @@ A React Native Library to support USB/BLE/Net printer
 ## Installation
 
 ```
-npm i choiceqr-react-native-thermal-printer
+yarn add react-native-thermal-receipt-printer
 ```
 
 ## Troubleshoot
@@ -23,8 +23,7 @@ Flipper uses it too
 _Podfile_
 
 ```diff
-...
-  use_native_modules!
+...  use_native_modules!
 
   # Enables Flipper.
   #
