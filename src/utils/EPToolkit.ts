@@ -41,6 +41,7 @@ const encoding_mappings_bytes = {
   "GB18030": Buffer.from([28, 38, 28, 67, 0]),
   "BIG5": Buffer.from([28, 38, 28, 67, 1]),
   "UTF8": Buffer.from([28, 38, 28, 67, 255]),
+  "CP858": Buffer.from([27, 116, 19]),
 };
 
 const options_controller = {
